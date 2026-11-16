@@ -104,7 +104,7 @@ ORDER BY 2 DESC;
 1. Calculate the average danceability of tracks in each album.
 ```SQL
 SELECT album,
-		avg(danceability) as avg_danceability
+avg(danceability) as avg_danceability
 FROM Spotify
 GROUP BY 1
 ORDER BY 2 DESC;
