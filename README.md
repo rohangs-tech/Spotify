@@ -2,7 +2,7 @@
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
-![Spotify Logo](<img width="2752" height="1536" alt="spotify logo" src="https://github.com/user-attachments/assets/885e04d7-1df5-43e6-bc89-e023154eea24" />
+![Spotify Logo](<img width="2752" height="1536" alt="spotify logo" src="https://github.com/user-attachments/assets/9c4078cd-45a7-45a9-aeaa-e5bfaf0f58cf" />
 )
 
 ## Overview
